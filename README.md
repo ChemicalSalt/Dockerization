@@ -1,4 +1,4 @@
-# Dockerize a Basic Django Project - RailSathiBE
+# Dockerization - RailSathiBE
 
 ## Overview
 
