@@ -24,7 +24,8 @@ It includes a PostgreSQL database and the Django app running inside Docker conta
 ### Access the app
 
 - API docs: [http://localhost:5002/rs_microservice/docs](http://localhost:5002/rs_microservice/docs)  
-- Health check: [http://localhost:5002/health](http://localhost:5002/health)  
+- Health check: [http://localhost:5002/health](http://localhost:5002/health)
+  Note: The server must be running to access these URLs.
 
 ### How to Run
 
